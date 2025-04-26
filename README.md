@@ -4,7 +4,8 @@ I am a dedicated and motivated front-end developer intern with hands-on experien
 
 ### Links:
 
-- (My Portfolio)[]
+- [My Portfolio](https://portfolio-blue-kappa-39.vercel.app)
+- [LinkedIn](www.linkedin.com/in/huyleminh0404)
 
 <!--
 **huyhuyhuy8s/huyhuyhuy8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
