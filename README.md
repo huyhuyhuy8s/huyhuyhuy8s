@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Le Minh Huy
+
+I am a dedicated and motivated front-end developer intern with hands-on experience in React, JavaScript, and modern web technologies. I am always striving to learn about the field's newest and cutting edge technologies and frameworks. I am driven to create user-friendly interfaces and eager to contribute to innovative web development initiatives.
+
+### Links:
+
+- (My Portfolio)[]
 
 <!--
 **huyhuyhuy8s/huyhuyhuy8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
